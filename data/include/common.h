@@ -7,5 +7,5 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
-
+#include <sys/uio.h>
 #define PORT 12345
